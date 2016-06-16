@@ -2,10 +2,10 @@
 
 ### Overall Structure
 The final process for producing maps would look like this:
-1. Use Leaflet to create a map in our HTML + CSS + Javascript
-2. Get base *vector* tiles from OSM through Leaflet and Tangram (Mapzen)
-3. Get base *raster* tiles from our own server through Leaflet
-4. Get any other data from our own server (from our postGIS database) through Leaflet
+* Use Leaflet to create a map in our HTML + CSS + Javascript
+* Get base *vector* tiles from OSM through Leaflet and Tangram (Mapzen)
+* Get base *raster* tiles from our own server through Leaflet
+* Get any other data from our own server (from our postGIS database) through Leaflet
 
 The c4sr mapping engine could consist of the following elements:
 * Routing engine: providing route data without having to deal with rate limits
