@@ -19,6 +19,7 @@ The c4sr mapping engine could consist of the following elements:
 An internal server that can provide us with routing information. Specially useful when working with large transportation datasets like the NYC Taxicab data or Citibike data. Given a specific transportation network the routing engine will give us the ideal route for any pair of origin and destination.
 * References:
   * [Valhalla - Mapzen](https://github.com/valhalla): Open source routing engine and libraries
+  * [Example with Docker](https://github.com/stuartlynn/valhalla-docker)
 
 #### Raster tile server
 See the overall tutorials at the top... this might be the easiest solution. Also, we might want to build the tiles first and then upload them to the server. Or upload them to the postgis database and have Mapnik render them (don't know if this is correct).
