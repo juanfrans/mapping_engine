@@ -34,3 +34,25 @@ See the overall tutorials at the top... this might be the easiest solution. Also
 This could help with creating templates and serving *vector* tiles with OSM data as basemaps for our projects.
 * References:
   * [Tangram - Mapzen](https://mapzen.com/projects/tangram/)
+  * [Terrain - Updated](https://mapzen.com/blog/elevation/)
+  * [Terrain](https://libraries.io/github/mapzen/terrarium)
+  * [Terrain](https://mapzen.com/blog/mapping-mountains/)
+
+#### Other
+* [How to display tiles in projections other than Web-Mercator](http://vis4.net/blog/posts/no-more-mercator-tiles/)
+* Other mapping javascript libraries:
+  * [Leaflet](http://leafletjs.com/): The classic.
+  * [Polymaps](http://polymaps.org/)
+  * [Open Layers](http://openlayers.org/)
+  * [Modest Maps](http://modestmaps.com/): Minimal and "hackable"?
+
+ #### Working sites:
+ *  https://tangrams.github.io/explorer/#9.9/3.4973/-76.3896/kind/major_road
+ *  https://mapzen.com/documentation/tangram/Raster-Overview/
+ *  https://www.openstreetmap.org/node/274021463
+ *  https://wiki.openstreetmap.org/wiki/Key:place
+ *  https://tangrams.github.io/tangram-sandbox/tangram.html?styles/press#7/3.447/-76.540
+ *  https://github.com/tangrams/tangram-sandbox/blob/gh-pages/styles/press.yaml
+ *  https://wiki.openstreetmap.org/wiki/Zoomlevel
+ *  https://mapzen.com/documentation/tangram/Filters-Overview/
+ *  
